@@ -53,12 +53,28 @@ Open the `backend` and `frontend` in separate VSCode workspaces or open the comb
 
 ## Group Members
 Adrian Eliasson - adreli@student.chalmers.se
+
+
 Aurelijus Steigvila - aurste@student.chalmers.se
+
+
 Birgitta Feldís Bjarkadóttir - felds@student.chalmers.se
+
+
 Erik Tran - trerik@student.chalmers.se
+
+
 Hampus Lundblad - hamlun@student.chalmers.se
+
+
 Heiðrún Valdís Heiðarsdóttir - valdis@student.chalmers.se
+
+
 Johannes Gustavsson - gjoh@student.chalmers.se
+
+
 Pontus Lindblom - ponlind@student.chalmers.se
+
+
 Pouya Faramarzi - pouyaf@student.chalmers.se
 
