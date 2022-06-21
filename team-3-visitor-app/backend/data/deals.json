@@ -1,0 +1,57 @@
+[
+    {
+        "type": "Deal",
+        "name": "Whole day deal",
+        "id": "0",
+        "descriptionShort": "Unlimited rides & games (price: 100)",
+        "descriptionLong": "A whole day of activities included in one ticket. Buy once and do anything you want in the entire park for one whole day",
+        "price": "100",
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    {
+        "type": "Deal",
+        "name": "Restaurant deal",
+        "id": "1",
+        "descriptionShort": "Lunch + Coffee + Dinner (price: 100)",
+        "descriptionLong": "This deal will provide you with a ticket for <b>1 x Lunch</b>, <b>1 x Coffee</b> and <b>1 x Dinner</b>",
+        "price": "100",
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    {
+        "type": "Deal",
+        "name": "Rides deal",
+        "id": "2",
+        "descriptionShort": "5 tickets for rides (price: 100)",
+        "descriptionLong": "This deal will provide you with 5 tickets for any <a href=\"http://localhost:8080/rides\">Ride</a> for only 100kr",
+        "price": "100",
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    {
+        "type": "Deal",
+        "name": "Games deal",
+        "id": "3",
+        "descriptionShort": "5 tickets for games (price: 100)",
+        "descriptionLong": "This deal will provide you with 5 tickets for any <a href=\"http://localhost:8080/games\">Game</a> for only 100kr",
+        "price": "100",
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    {
+        "type": "Deal",
+        "name": "A day experience",
+        "id": "4",
+        "descriptionShort": "5 rides, 1 coffee, 1 lunch (price: 100)",
+        "descriptionLong": "This deal will provide you with 5 tickets for any <a href=\"http://localhost:8080/rides\">Ride</a>, <b>1 x Coffee</b> and <b>1 x Lunch</b> for only 100kr",
+        "price": "100",
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "0",
+        "dealId": "1",
+        "ticketAmount": 3,
+        "pricePerTicket": "200",
+        "bookingTime": "1619094550",
+        "totalPrice": 300
+    },
+    {
+        "_id": "1",
+        "dealId": "2",
+        "ticketAmount": 2,
+        "pricePerTicket": "100",
+        "bookingTime": "1619094815",
+        "totalPrice": 200
+    }
+]

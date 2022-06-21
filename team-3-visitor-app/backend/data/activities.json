@@ -1,0 +1,1036 @@
+[
+    {
+        "type": "Ride",
+        "subtype": "Extreme",
+        "name": "Flume Ride",
+        "id": "0",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "1",
+        "price": "100",
+        "capacity": "50",
+        "averageTime": "60",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    {
+        "type": "Ride",
+        "subtype": "Water",
+        "name": "The Shark",
+        "id": "1",
+        "open": false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "2",
+        "price": "200",
+        "capacity": "25",
+        "averageTime": "0",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Family",
+        "name": "Skyrider",
+        "id": "2",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "3",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "5",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Extreme",
+        "name": "Fast and Furious",
+        "id": "3",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "4",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "15",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Extreme",
+        "name": "Monster Swing",
+        "id": "4",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "5",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "30",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Kids",
+        "name": "Baby Shark",
+        "id": "5",
+        "open": false,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "6",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "45",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Kids",
+        "name": "Baby Swing",
+        "id": "6",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "7",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "15",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Water",
+        "name": "Deep Diver",
+        "id": "7",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "8",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "90",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Ride",
+        "subtype": "Family",
+        "name": "The View",
+        "id": "8",
+        "open": true,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "9",
+        "price": "300",
+        "capacity": "7",
+        "averageTime": "55",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/doodle/100/000000/carousel--v1.png",
+        "icon": "/img/rides.svg"
+    },
+    { 
+        "type": "Restaurant",
+        "name": "Restaurant Mexi",
+        "id": "9",
+        "open": true,
+        "description": "Mexican Cuisine that the whole family is going to love!",
+        "location": "10",
+        "price": "",
+        "capacity": "38",
+        "averageTime": "3",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "menu": {
+            "main": {
+                "1": {
+                    "name": "Fajita",
+                    "description": "Large fajita filled with meat (choose chicken or beef), red onion, green bell pepper, tomato, salsa.",
+                    "price": "99"
+                },
+                "2": {
+                    "name": "Beef Tacos",
+                    "description": "2 large tacos filled with minced beef, cheese, red onion, green bell pepper and pico de gallo.",
+                    "price": "89"
+                }
+            },
+            "desserts": {
+                "1": {
+                    "name": "Churros",
+                    "description": "Our special homemade churros served with chocolate dipping sauce.",
+                    "price": "49"
+                },
+                "2": {
+                    "name": "Churro cookies",
+                    "description": "Our secret-recipe churro cookies with dulce de leche filling.",
+                    "price": "59"
+                }
+            },
+            "drinks": {
+                "1": {
+                    "name": "Soda",
+                    "description": "Cola, Fanta, Sprite. 33cl.",
+                    "price": "10"
+                },
+                "2": {
+                    "name": "Coffee",
+                    "description": "",
+                    "price": "12"
+                }
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/bubbles/100/000000/meal.png",
+        "icon": "/img/resturants.svg"
+    },
+    { 
+        "type": "Restaurant",
+        "name": "Pizza Palace",
+        "id": "10",
+        "open": false,
+        "description": "Fire baked pizzas in our wood burning oven just like in Italy. Come and enjoy relaxing and friendly atmosphere, located in the Amusement Park. ",
+        "location": "11",
+        "price": "",
+        "capacity": "50",
+        "averageTime": "120",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "menu": {
+            "main": {
+                "1": {
+                    "name": "Margarita",
+                    "description": "Sauce, mozzarella, basil.",
+                    "price": "55"
+                },
+                "2": {
+                    "name": "Kinda Basic",
+                    "description": "Pepperoni, ham, sauce, mozzarella",
+                    "price": "65"
+                },
+                "3": {
+                    "name": "Pepperoni Explosion",
+                    "description": "Triple pepperoni, jalapeno, sauce, mozzarella",
+                    "price": "75"
+                },
+                "4": {
+                    "name": "Add a little bit of spice",
+                    "description": "Pepperoni, pepper cheese, red onion, chilli, sauce, mozzarella",
+                    "price": "75"
+                },
+                "5": {
+                    "name": "So cheesy",
+                    "description": "Pepper cheese, cream cheese, blue cheese, cranberry jam, sauce, mozzarella",
+                    "price": "80"
+                },
+                "6": {
+                    "name": "The Parm",
+                    "description": "Parma ham, ruccola, parmigiano, truffle oil, sauce, mozzarella",
+                    "price": "75"
+                },
+                "7": {
+                    "name": "The Grass is Always Greener",
+                    "description": "Grilled zucchini, green bell pepper, red onion, ruccola, sauce",
+                    "price": "75"
+                }
+            },
+            "desserts": {
+                "1": {
+                    "name": "Sorbet",
+                    "description": "3 spoons of our homemade sorbet: strawberry, kiwi and mango.",
+                    "price": "35"
+                },
+                "2": {
+                    "name": "Tiramisu",
+                    "description": "A coffee-flavoured Italian dessert cake",
+                    "price": "45"
+                }
+            },
+            "drinks": {
+                "1": {
+                    "name": "Soda",
+                    "description": "Pepsi, Mountain Dew, Raspberry Sparkling Water. 33cl.",
+                    "price": "10"
+                },
+                "2": {
+                    "name": "Juice Box",
+                    "description": "Apple, Orange, Raspberry. 25cl.",
+                    "price": "5"
+                }
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/bubbles/100/000000/meal.png",
+        "icon": "/img/resturants.svg"
+    },
+    { 
+        "name": "PingPong",
+        "id": "11",
+        "open": false,
+        "type":"Game",  
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "12",
+        "price": "300",
+        "capacity": "10",
+        "averageTime": "10",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/bubbles/200/000000/apple-arcade.png",
+        "icon": "/img/games.svg"
+    },
+    { 
+        "name": "Darts",
+        "id": "12",
+        "open": true,
+        "type":"Game",  
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "13",
+        "price": "300",
+        "capacity": "10",
+        "averageTime": "5",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/bubbles/200/000000/apple-arcade.png",
+        "icon": "/img/games.svg"
+    },
+    { 
+        "name": "Dance Off",
+        "id": "13",
+        "open": true,
+        "type":"Game",  
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Huius ego nunc auctoritatem sequens idem faciam. Sint modo partes vitae beatae. Sit ista in Graecorum levitate perversitas, qui maledictis insectantur eos, a quibus de veritate dissentiunt. Haec quo modo conveniant, non sane intellego. Haec igitur Epicuri non probo, inquam. Aliter homines, aliter philosophos loqui putas oportere? Bestiarum vero nullum iudicium puto. Duo Reges: constructio interrete. Tu quidem reddes; Nunc haec primum fortasse audientis servire debemus. Videmus igitur ut conquiescere ne infantes quidem possint. Qualem igitur hominem natura inchoavit? Ita multa dicunt, quae vix intellegam." ,
+        "location": "14",
+        "price": "300",
+        "capacity": "10",
+        "averageTime": "90",
+        "bookingTimes": {
+            "1": {
+                "time": "10:00",
+                "availableSpots": 5,
+                "waitTime": 10
+            },
+            "2": {
+                "time": "10:30",
+                "availableSpots": 0,
+                "waitTime": 0
+            },
+            "3": {
+                "time": "11:00",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "4": {
+                "time": "11:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "5": {
+                "time": "12:00",
+                "availableSpots": 3,
+                "waitTime": 15
+            },
+            "6": {
+                "time": "12:30",
+                "availableSpots": 10,
+                "waitTime": 5
+            },
+            "7": {
+                "time": "13:00",
+                "availableSpots": 10,
+                "waitTime": 90
+            },
+            "8": {
+                "time": "13:30",
+                "availableSpots": 8,
+                "waitTime": 7
+            },
+            "9": {
+                "time": "14:00",
+                "availableSpots": 10,
+                "waitTime": 60
+            },
+            "10": {
+                "time": "14:30",
+                "availableSpots": 9,
+                "waitTime": 30
+            }
+        },
+        "src": "http://cdn.cnn.com/cnnnext/dam/assets/190705153928-millennium-force-rollercoaster-004.jpg",
+        "cardImage": "https://img.icons8.com/bubbles/200/000000/apple-arcade.png",
+        "icon": "/img/games.svg"
+    }
+]

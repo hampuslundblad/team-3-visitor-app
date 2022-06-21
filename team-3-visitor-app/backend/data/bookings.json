@@ -1,0 +1,20 @@
+[
+    { 
+        "_id": "0",
+        "activityId": "1",
+        "ticketAmount": 3,
+        "timeslot": "11:00",
+        "pricePerTicket": "200",
+        "bookingTime": "1619094550",
+        "totalPrice": 300
+    },
+    { 
+        "_id": "1",
+        "activityId": "2",
+        "ticketAmount": 2,
+        "timeslot": "12:30",
+        "pricePerTicket": "100",
+        "bookingTime": "1619094815",
+        "totalPrice": 200
+    }
+]

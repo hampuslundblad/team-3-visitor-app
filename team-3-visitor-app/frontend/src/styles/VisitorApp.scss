@@ -1,0 +1,73 @@
+h1,
+h2,
+h3 {
+  font-family: "Bubblegum Sans";
+  text-transform: uppercase;
+}
+
+.button {
+  font-family: "Bubblegum Sans";
+  text-transform: uppercase;
+  margin: 10px;
+  padding: 15px;
+  color: #c45891;
+  background-color: #ebf0df;
+}
+
+.disabledButton {
+  font-family: "Bubblegum Sans";
+  text-transform: uppercase;
+  background-color: lightgrey;
+  color: grey;
+}
+
+.pinkText {
+  // text-transform: uppercase;
+  color: #c45891;
+}
+
+.navBarPinkColor {
+  // text-transform: uppercase;
+  font-family: "Bubblegum Sans";
+  color: #ebf0df;
+  background-color: #c45891;
+  font-size:1.5rem;
+
+  a:hover {
+    color: #ebf0df;
+  }
+}
+
+.darkerGreenShade {
+  background-color: #10e846;
+}
+
+.backgroundColor {
+  background-color: #ebf0df;
+}
+
+
+
+.title-pages {
+  width: 100%;
+  padding-top: 5%;
+  position: relative;
+  text-transform: uppercase;
+  color: #c45891;
+  text-align: center;
+}
+
+.card-wrapper{
+    width:50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.breadcrumb-item a {
+  color: #42b983;
+}
+
+.breadcrumb {
+  font-size: 14px;
+  height:5vh;
+}
